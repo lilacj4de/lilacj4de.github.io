@@ -2,6 +2,10 @@
 title: Introduction
 description: Hi, I'm a cybersecurity girlie who enjoys CTF and occasionally joins hackathons and English debates (Asean Parliamentary).
 date: 25/10/2024
+tags:
+  - blog
+
+  
 ---
 
 **Current interest:** Digital Forensics, Incident Response, Web Application Vulnerabilities.
