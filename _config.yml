@@ -3,9 +3,9 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: lilacj4de
-subtitle: 'hensem'
-description: 'hensem'
+title: Lila's Blog ✨
+subtitle: 'CTF player | English debater | lifelong learner'
+description: 'CTF player | English debater | lifelong learner'
 keywords:
 author: lilacj4de
 language: en
@@ -13,7 +13,7 @@ timezone: ''
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: http://example.com
+url: http://lilacj4de.github.io
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:
